@@ -1,0 +1,13 @@
+{
+  "id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in julian-cook-bl-uk/iiif-course-images project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/script_created_manifest_add_ms_27261.json",
+    "label" : "Add. MS 27261 Niẓāmī Ganjavī, Khamsah and 22 other texts."
+  } ]
+}
