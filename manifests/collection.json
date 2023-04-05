@@ -15,5 +15,11 @@
       "en" : [ "Printed copy of the Vajracchedikaprajnaparamitasutra (Diamond Sutra) 金剛般若波羅蜜經 (Jing gang bo re bo luo mi jing) translated by Kumarajiva dated to 868" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/test-kint.json",
+    "label" : {
+      "en" : [ "Printed copy of the Vajracchedikaprajnaparamitasutra (Diamond Sutra) 金剛般若波羅蜜經 (Jing gang bo re bo luo mi jing) translated by Kumarajiva dated to 868" ]
+    },
+    "type" : "Manifest"
   } ]
 }
