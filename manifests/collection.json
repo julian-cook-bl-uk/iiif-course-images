@@ -9,5 +9,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/script_created_manifest_add_ms_27261.json",
     "label" : "Add. MS 27261 Niẓāmī Ganjavī, Khamsah and 22 other texts."
+  }, {
+    "id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/51FDAEAFB4A24E2E9981692A98130BC8.json",
+    "label" : {
+      "en" : [ "Printed copy of the Vajracchedikaprajnaparamitasutra (Diamond Sutra) 金剛般若波羅蜜經 (Jing gang bo re bo luo mi jing) translated by Kumarajiva dated to 868" ]
+    },
+    "type" : "Manifest"
   } ]
 }
