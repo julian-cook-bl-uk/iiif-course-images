@@ -1,0 +1,2266 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://julian-cook-bl-uk.github.io/iiif-course-images/manifests/51FDAEAFB4A24E2E9981692A98130BC8.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Printed copy of the Vajracchedikaprajnaparamitasutra (Diamond Sutra) 金剛般若波羅蜜經 (Jing gang bo re bo luo mi jing) translated by Kumarajiva dated to 868" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Pressmark" ]
+    },
+    "value" : {
+      "en" : [ "Or.8210/P.2" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "Printed copy of the Vajracchedikasūtra (Diamond Sutra) dated to 868" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Comments" ]
+    },
+    "value" : {
+      "en" : [ "see file DiamondSutra_Or8210_P2_physicalmeasurements.xls for more detail by panel" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "Printed copy of the Vajracchedikasūtra (Diamond Sutra) dated to 868" ]
+  },
+  "structures" : [ {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0",
+    "type" : "Range",
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/0",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/CC9EF0EE28674B6886AF874FB1BDC0A9/preview_CC9EF0EE28674B6886AF874FB1BDC0A9.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 120,
+        "width" : 120
+      } ],
+      "height" : 1200,
+      "width" : 894,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/0/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/0/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/CC9EF0EE28674B6886AF874FB1BDC0A9/large_CC9EF0EE28674B6886AF874FB1BDC0A9.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 1200,
+            "width" : 894
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/0"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/1",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/C15175A540894D3ABA822F1ED9C6CF49/preview_C15175A540894D3ABA822F1ED9C6CF49.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/1/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/1/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/C15175A540894D3ABA822F1ED9C6CF49/large_C15175A540894D3ABA822F1ED9C6CF49.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/1"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/2",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/3E99C0DC4437401BA2E0F55FC3F4CF23/preview_3E99C0DC4437401BA2E0F55FC3F4CF23.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/2/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/2/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/3E99C0DC4437401BA2E0F55FC3F4CF23/large_3E99C0DC4437401BA2E0F55FC3F4CF23.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/2"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/3",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/4CD9C64F55B34A978D027B7F28D4AC19/preview_4CD9C64F55B34A978D027B7F28D4AC19.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/3/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/3/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/4CD9C64F55B34A978D027B7F28D4AC19/large_4CD9C64F55B34A978D027B7F28D4AC19.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/3"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/4",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/84A5FBC53B004EECA4418A931A33F361/preview_84A5FBC53B004EECA4418A931A33F361.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/4/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/4/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/84A5FBC53B004EECA4418A931A33F361/large_84A5FBC53B004EECA4418A931A33F361.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/4"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/5",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/F898069543014554B09DC53B09E71673/preview_F898069543014554B09DC53B09E71673.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/5/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/5/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/F898069543014554B09DC53B09E71673/large_F898069543014554B09DC53B09E71673.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/5"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/6",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/E0B8A7620E814019ABABE1A9CCD496C2/preview_E0B8A7620E814019ABABE1A9CCD496C2.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/6/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/6/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/E0B8A7620E814019ABABE1A9CCD496C2/large_E0B8A7620E814019ABABE1A9CCD496C2.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/6"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/7",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/987C1F18E3BC4CA786C24404C980324E/preview_987C1F18E3BC4CA786C24404C980324E.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/7/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/7/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/987C1F18E3BC4CA786C24404C980324E/large_987C1F18E3BC4CA786C24404C980324E.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/7"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/8",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/56AA4C1EA1A342F1917BAE894432D149/preview_56AA4C1EA1A342F1917BAE894432D149.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/8/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/8/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/56AA4C1EA1A342F1917BAE894432D149/large_56AA4C1EA1A342F1917BAE894432D149.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/8"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/9",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/78EA5DF93F454D5EB6571EB1359D664F/preview_78EA5DF93F454D5EB6571EB1359D664F.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/9/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/9/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/78EA5DF93F454D5EB6571EB1359D664F/large_78EA5DF93F454D5EB6571EB1359D664F.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/9"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/10",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/B73165BA2ADF48B0A16D0A381C700C20/preview_B73165BA2ADF48B0A16D0A381C700C20.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/10/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/10/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/B73165BA2ADF48B0A16D0A381C700C20/large_B73165BA2ADF48B0A16D0A381C700C20.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/10"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/11",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/8902776BDCF340739BDCA308BD474677/preview_8902776BDCF340739BDCA308BD474677.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/11/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/11/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/8902776BDCF340739BDCA308BD474677/large_8902776BDCF340739BDCA308BD474677.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/11"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/12",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/6CAC99F2607C48D386BF68A776748F62/preview_6CAC99F2607C48D386BF68A776748F62.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/12/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/12/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/6CAC99F2607C48D386BF68A776748F62/large_6CAC99F2607C48D386BF68A776748F62.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/12"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/13",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/83E6434AA27B43188A0114A82DB4FB28/preview_83E6434AA27B43188A0114A82DB4FB28.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/13/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/13/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/83E6434AA27B43188A0114A82DB4FB28/large_83E6434AA27B43188A0114A82DB4FB28.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/13"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/14",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/ACF1E772A7994BD0BB0A10C3D5B186D9/preview_ACF1E772A7994BD0BB0A10C3D5B186D9.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/14/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/14/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/ACF1E772A7994BD0BB0A10C3D5B186D9/large_ACF1E772A7994BD0BB0A10C3D5B186D9.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/14"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/15",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/296F1F2F22474CAD84F8E8855D9CC379/preview_296F1F2F22474CAD84F8E8855D9CC379.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/15/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/15/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/296F1F2F22474CAD84F8E8855D9CC379/large_296F1F2F22474CAD84F8E8855D9CC379.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/15"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/16",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/058C52087892443BB405B1272DB10A95/preview_058C52087892443BB405B1272DB10A95.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/16/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/16/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/058C52087892443BB405B1272DB10A95/large_058C52087892443BB405B1272DB10A95.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/16"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/17",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/FEDC1B4AAA814ACA97C8F040B4010192/preview_FEDC1B4AAA814ACA97C8F040B4010192.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 90,
+        "width" : 90
+      } ],
+      "height" : 900,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/17/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/17/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/FEDC1B4AAA814ACA97C8F040B4010192/large_FEDC1B4AAA814ACA97C8F040B4010192.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 900,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/17"
+        } ]
+      } ]
+    }, {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/18",
+      "type" : "Canvas",
+      "thumbnail" : [ {
+        "id" : "http://tempes.k-int.com/bl/media/E67E8FE1D3544B318C9B0B94BA22A455/preview_E67E8FE1D3544B318C9B0B94BA22A455.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg",
+        "height" : 96,
+        "width" : 96
+      } ],
+      "height" : 963,
+      "width" : 1200,
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/18/items/0",
+        "type" : "Annotation Page",
+        "items" : [ {
+          "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/18/items/0/items/0",
+          "type" : "Annotation",
+          "body" : {
+            "id" : "http://tempes.k-int.com/bl/media/E67E8FE1D3544B318C9B0B94BA22A455/large_E67E8FE1D3544B318C9B0B94BA22A455.jpg",
+            "type" : "Image",
+            "format" : "image/jpeg",
+            "height" : 963,
+            "width" : 1200
+          },
+          "motivation" : "painting",
+          "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/18"
+        } ]
+      } ]
+    } ]
+  } ],
+  "items" : [ {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/16264E77E8514B33B961D5A11138FA58/preview_16264E77E8514B33B961D5A11138FA58.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 824,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/16264E77E8514B33B961D5A11138FA58/large_16264E77E8514B33B961D5A11138FA58.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 824
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/6F413126697C4E129DF81AE57EC64372/preview_6F413126697C4E129DF81AE57EC64372.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 890,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/6F413126697C4E129DF81AE57EC64372/large_6F413126697C4E129DF81AE57EC64372.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 890
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/7B310161EB824F918EA9F2C5E6F88624/preview_7B310161EB824F918EA9F2C5E6F88624.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 113,
+      "width" : 113
+    } ],
+    "height" : 1131,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/7B310161EB824F918EA9F2C5E6F88624/large_7B310161EB824F918EA9F2C5E6F88624.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1131,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/DE2BB85EF249400F82449CDA9484B299/preview_DE2BB85EF249400F82449CDA9484B299.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1038,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/DE2BB85EF249400F82449CDA9484B299/large_DE2BB85EF249400F82449CDA9484B299.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1038
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/5F01F09823D24C6D923445E52BFA453C/preview_5F01F09823D24C6D923445E52BFA453C.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1076,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/5F01F09823D24C6D923445E52BFA453C/large_5F01F09823D24C6D923445E52BFA453C.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1076
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/D951480C47E64122800F69299C8D35E5/preview_D951480C47E64122800F69299C8D35E5.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 118,
+      "width" : 118
+    } ],
+    "height" : 1180,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/D951480C47E64122800F69299C8D35E5/large_D951480C47E64122800F69299C8D35E5.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1180,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/36FBA11C0BBE42B48813515731C504ED/preview_36FBA11C0BBE42B48813515731C504ED.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 938,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/36FBA11C0BBE42B48813515731C504ED/large_36FBA11C0BBE42B48813515731C504ED.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 938
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/E868E11A899A40CFBC18AD8F27AC7650/preview_E868E11A899A40CFBC18AD8F27AC7650.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 854,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/E868E11A899A40CFBC18AD8F27AC7650/large_E868E11A899A40CFBC18AD8F27AC7650.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 854
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/183AB952FD9D4E36AEF5E55A17DED564/preview_183AB952FD9D4E36AEF5E55A17DED564.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 952,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/183AB952FD9D4E36AEF5E55A17DED564/large_183AB952FD9D4E36AEF5E55A17DED564.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 952
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/0E872BA7F19E4217A3D1E0A8E486BF92/preview_0E872BA7F19E4217A3D1E0A8E486BF92.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 117,
+      "width" : 117
+    } ],
+    "height" : 1170,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/0E872BA7F19E4217A3D1E0A8E486BF92/large_0E872BA7F19E4217A3D1E0A8E486BF92.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1170,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/4539F41FB4984CC09CC5B51BCAA084C0/preview_4539F41FB4984CC09CC5B51BCAA084C0.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1065,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/4539F41FB4984CC09CC5B51BCAA084C0/large_4539F41FB4984CC09CC5B51BCAA084C0.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1065
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/A129C651CEB84B1AAE9BADD8516A35EE/preview_A129C651CEB84B1AAE9BADD8516A35EE.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 761,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/A129C651CEB84B1AAE9BADD8516A35EE/large_A129C651CEB84B1AAE9BADD8516A35EE.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 761
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/E199CA16779C4802B0D9F09518E2598D/preview_E199CA16779C4802B0D9F09518E2598D.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 116,
+      "width" : 116
+    } ],
+    "height" : 1157,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/E199CA16779C4802B0D9F09518E2598D/large_E199CA16779C4802B0D9F09518E2598D.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1157,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/53072927B93A4CAB9B67824A40B5D733/preview_53072927B93A4CAB9B67824A40B5D733.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 959,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/53072927B93A4CAB9B67824A40B5D733/large_53072927B93A4CAB9B67824A40B5D733.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 959
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/BA28CA7D88DB493E8123F71F318215CA/preview_BA28CA7D88DB493E8123F71F318215CA.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1098,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/BA28CA7D88DB493E8123F71F318215CA/large_BA28CA7D88DB493E8123F71F318215CA.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1098
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/6BA395F728BF4BDD931AC4B6DF646E2B/preview_6BA395F728BF4BDD931AC4B6DF646E2B.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1157,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/6BA395F728BF4BDD931AC4B6DF646E2B/large_6BA395F728BF4BDD931AC4B6DF646E2B.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1157
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/31022454712447C9A8D9CEAEE103DF6B/preview_31022454712447C9A8D9CEAEE103DF6B.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 896,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/31022454712447C9A8D9CEAEE103DF6B/large_31022454712447C9A8D9CEAEE103DF6B.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 896
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/CA0DCA87083542E1ABCC8F8D61F4D964/preview_CA0DCA87083542E1ABCC8F8D61F4D964.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1048,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/CA0DCA87083542E1ABCC8F8D61F4D964/large_CA0DCA87083542E1ABCC8F8D61F4D964.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1048
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/A905CFCE61A94822B116E38FE5DECE39/preview_A905CFCE61A94822B116E38FE5DECE39.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1083,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/A905CFCE61A94822B116E38FE5DECE39/large_A905CFCE61A94822B116E38FE5DECE39.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1083
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/49CE4B8792E8454C9C2EEA89BD4EE16F/preview_49CE4B8792E8454C9C2EEA89BD4EE16F.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 109,
+      "width" : 109
+    } ],
+    "height" : 1091,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/49CE4B8792E8454C9C2EEA89BD4EE16F/large_49CE4B8792E8454C9C2EEA89BD4EE16F.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1091,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/9A60855157224D998587F638A16D7531/preview_9A60855157224D998587F638A16D7531.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 112,
+      "width" : 112
+    } ],
+    "height" : 1123,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/9A60855157224D998587F638A16D7531/large_9A60855157224D998587F638A16D7531.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1123,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/7D69713C7E0146099B1D231ADEFA62D6/preview_7D69713C7E0146099B1D231ADEFA62D6.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1093,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/7D69713C7E0146099B1D231ADEFA62D6/large_7D69713C7E0146099B1D231ADEFA62D6.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1093
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/5EE4AE07CA7A44B6BE01C78F6AF31A7D/preview_5EE4AE07CA7A44B6BE01C78F6AF31A7D.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 776,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/5EE4AE07CA7A44B6BE01C78F6AF31A7D/large_5EE4AE07CA7A44B6BE01C78F6AF31A7D.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 776
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/C099949C11EB48FFA0F2CADEA2442197/preview_C099949C11EB48FFA0F2CADEA2442197.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1173,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/C099949C11EB48FFA0F2CADEA2442197/large_C099949C11EB48FFA0F2CADEA2442197.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1173
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/4A7759031F6943DC936E2E09E9233827/preview_4A7759031F6943DC936E2E09E9233827.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1190,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/4A7759031F6943DC936E2E09E9233827/large_4A7759031F6943DC936E2E09E9233827.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1190
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/099B5C5F08E345EF9AF15E24A6D8FCE6/preview_099B5C5F08E345EF9AF15E24A6D8FCE6.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 986,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/099B5C5F08E345EF9AF15E24A6D8FCE6/large_099B5C5F08E345EF9AF15E24A6D8FCE6.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 986
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/D8E6E01B5D334A72B0B7DE26B93A1BA8/preview_D8E6E01B5D334A72B0B7DE26B93A1BA8.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1169,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/D8E6E01B5D334A72B0B7DE26B93A1BA8/large_D8E6E01B5D334A72B0B7DE26B93A1BA8.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1169
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/5353E1C0CCDA43AC9BEC2FAD87C052A3/preview_5353E1C0CCDA43AC9BEC2FAD87C052A3.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 585,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/5353E1C0CCDA43AC9BEC2FAD87C052A3/large_5353E1C0CCDA43AC9BEC2FAD87C052A3.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 585
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/23C946D62A244826B80C32EFA86A3F87/preview_23C946D62A244826B80C32EFA86A3F87.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 957,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/23C946D62A244826B80C32EFA86A3F87/large_23C946D62A244826B80C32EFA86A3F87.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 957
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/C740E27CC7174105AD16B549EC86BE2F/preview_C740E27CC7174105AD16B549EC86BE2F.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1173,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/C740E27CC7174105AD16B549EC86BE2F/large_C740E27CC7174105AD16B549EC86BE2F.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1173
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/17D67CD7ACD946FDA9FB1CFFE15A3DB8/preview_17D67CD7ACD946FDA9FB1CFFE15A3DB8.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 927,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/17D67CD7ACD946FDA9FB1CFFE15A3DB8/large_17D67CD7ACD946FDA9FB1CFFE15A3DB8.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 927
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/4BC64776CB2B4DC89EDAEF6EF7F84F58/preview_4BC64776CB2B4DC89EDAEF6EF7F84F58.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 943,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/4BC64776CB2B4DC89EDAEF6EF7F84F58/large_4BC64776CB2B4DC89EDAEF6EF7F84F58.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 943
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/BB322D0C581649E3A0BEF5DB73E9271F/preview_BB322D0C581649E3A0BEF5DB73E9271F.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1137,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/BB322D0C581649E3A0BEF5DB73E9271F/large_BB322D0C581649E3A0BEF5DB73E9271F.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1137
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/6C03FA524E8B491591875268195B88DF/preview_6C03FA524E8B491591875268195B88DF.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1081,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/6C03FA524E8B491591875268195B88DF/large_6C03FA524E8B491591875268195B88DF.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1081
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/12C5665250AD4B31893E6D4137BA1F0C/preview_12C5665250AD4B31893E6D4137BA1F0C.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 948,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/12C5665250AD4B31893E6D4137BA1F0C/large_12C5665250AD4B31893E6D4137BA1F0C.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 948
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/1840746125EF473AA8D0FF0D8582B321/preview_1840746125EF473AA8D0FF0D8582B321.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 111,
+      "width" : 111
+    } ],
+    "height" : 1110,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/1840746125EF473AA8D0FF0D8582B321/large_1840746125EF473AA8D0FF0D8582B321.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1110,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/74026BFBA090414F9598A5280389E2C0/preview_74026BFBA090414F9598A5280389E2C0.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1025,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/74026BFBA090414F9598A5280389E2C0/large_74026BFBA090414F9598A5280389E2C0.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1025
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/C40AD80E7141471681B8F6D680C7ED6D/preview_C40AD80E7141471681B8F6D680C7ED6D.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 102,
+      "width" : 102
+    } ],
+    "height" : 1018,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/C40AD80E7141471681B8F6D680C7ED6D/large_C40AD80E7141471681B8F6D680C7ED6D.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1018,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/2ECFBD4CB87345AC921E2510ED0D99EB/preview_2ECFBD4CB87345AC921E2510ED0D99EB.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 978,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/2ECFBD4CB87345AC921E2510ED0D99EB/large_2ECFBD4CB87345AC921E2510ED0D99EB.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 978
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/BFAFFA4466054EA4BCD5AD8FD4EEAF59/preview_BFAFFA4466054EA4BCD5AD8FD4EEAF59.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 837,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/BFAFFA4466054EA4BCD5AD8FD4EEAF59/large_BFAFFA4466054EA4BCD5AD8FD4EEAF59.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 837
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "Detail of colophon." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/C21894C01C4B4A1BACF68081445867EA/preview_C21894C01C4B4A1BACF68081445867EA.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 840,
+    "width" : 400,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/C21894C01C4B4A1BACF68081445867EA/C21894C01C4B4A1BACF68081445867EA.jpeg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 840,
+          "width" : 400
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/E50AE4B9E8E64F85B148A1366D2DEE93/preview_E50AE4B9E8E64F85B148A1366D2DEE93.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 203,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/E50AE4B9E8E64F85B148A1366D2DEE93/large_E50AE4B9E8E64F85B148A1366D2DEE93.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 203
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42",
+    "type" : "Canvas",
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Sponsor" ]
+      },
+      "value" : {
+        "en" : [ "Detail of end of stave." ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/FF5C9C0839254C9F8FE9D8BECE9BD4F5/preview_FF5C9C0839254C9F8FE9D8BECE9BD4F5.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 582,
+    "width" : 525,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/FF5C9C0839254C9F8FE9D8BECE9BD4F5/FF5C9C0839254C9F8FE9D8BECE9BD4F5.jpeg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 582,
+          "width" : 525
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/7BB52DDDCB064B4F9F40247B99EABC2C/preview_7BB52DDDCB064B4F9F40247B99EABC2C.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/7BB52DDDCB064B4F9F40247B99EABC2C/large_7BB52DDDCB064B4F9F40247B99EABC2C.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/987D894B268443E9B6254374A09FF704/preview_987D894B268443E9B6254374A09FF704.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/987D894B268443E9B6254374A09FF704/large_987D894B268443E9B6254374A09FF704.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/51C038A1A2724410B7C657239103CC17/preview_51C038A1A2724410B7C657239103CC17.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/51C038A1A2724410B7C657239103CC17/large_51C038A1A2724410B7C657239103CC17.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/7781EEED70484746B9FCCF14CE534C34/preview_7781EEED70484746B9FCCF14CE534C34.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/7781EEED70484746B9FCCF14CE534C34/large_7781EEED70484746B9FCCF14CE534C34.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/B565AF41817447C78F5917427F1B28DC/preview_B565AF41817447C78F5917427F1B28DC.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/B565AF41817447C78F5917427F1B28DC/large_B565AF41817447C78F5917427F1B28DC.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/046472D2EDC145F192D71D22EB7D7CB6/preview_046472D2EDC145F192D71D22EB7D7CB6.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/046472D2EDC145F192D71D22EB7D7CB6/large_046472D2EDC145F192D71D22EB7D7CB6.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/50687EAF94A04C8FA895AD28B4EA558D/preview_50687EAF94A04C8FA895AD28B4EA558D.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/50687EAF94A04C8FA895AD28B4EA558D/large_50687EAF94A04C8FA895AD28B4EA558D.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/B7D41CB9E6944E0094688E2BBA518641/preview_B7D41CB9E6944E0094688E2BBA518641.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 120,
+      "width" : 120
+    } ],
+    "height" : 1200,
+    "width" : 1006,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/B7D41CB9E6944E0094688E2BBA518641/large_B7D41CB9E6944E0094688E2BBA518641.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1200,
+          "width" : 1006
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50"
+      } ]
+    } ]
+  }, {
+    "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51",
+    "type" : "Canvas",
+    "thumbnail" : [ {
+      "id" : "http://tempes.k-int.com/bl/media/B2CC3238845B40F99D09C7C5A7F6E5C7/preview_B2CC3238845B40F99D09C7C5A7F6E5C7.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 90,
+      "width" : 90
+    } ],
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51/items/0",
+      "type" : "Annotation Page",
+      "items" : [ {
+        "id" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51/items/0/items/0",
+        "type" : "Annotation",
+        "body" : {
+          "id" : "http://tempes.k-int.com/bl/media/B2CC3238845B40F99D09C7C5A7F6E5C7/large_B2CC3238845B40F99D09C7C5A7F6E5C7.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 900,
+          "width" : 1200
+        },
+        "motivation" : "painting",
+        "target" : "http://tempes.k-int.com/bl/rosetta/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51"
+      } ]
+    } ]
+  } ]
+}
